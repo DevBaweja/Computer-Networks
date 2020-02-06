@@ -1,0 +1,7 @@
+23:24:43 **** Incremental Build of configuration release for project TwoNode ****
+make MODE=release all 
+Node.cc
+Creating executable: out/clang-release//TwoNode.exe
+
+23:24:48 Build Finished (took 4s.951ms)
+
